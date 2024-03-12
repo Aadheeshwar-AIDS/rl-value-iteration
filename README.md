@@ -79,10 +79,9 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 
 ## OUTPUT:
 
-![](op1.png)
-![](op2.png)
-![](op3.png)
-
+![](op1.PNG)
+![](op2.PNG)
+![](op3.PNG)
 ## RESULT:
 
 Thus the python program to implement value iteration to find the optimal policy is completed successfully.
